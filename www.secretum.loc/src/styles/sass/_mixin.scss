@@ -1,0 +1,4 @@
+@mixin font-generate($fontName, $fontSize) {
+  font-family: $fontName, sans-serif;
+  font-size: $fontSize;
+}
